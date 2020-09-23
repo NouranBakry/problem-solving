@@ -18,4 +18,7 @@ My solutions to problems on leetoode 🚀
 14. https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/
 15. https://leetcode.com/problems/reformat-date/
 16. https://leetcode.com/problems/number-of-good-pairs/
-17. 
+17. https://leetcode.com/problems/water-bottles/
+18. https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/
+19. https://leetcode.com/problems/shuffle-string/
+20. 
