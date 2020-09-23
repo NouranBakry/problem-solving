@@ -22,4 +22,7 @@ My solutions to problems on leetoode 🚀
 18. https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/
 19. https://leetcode.com/problems/shuffle-string/
 20. https://leetcode.com/problems/kth-missing-positive-number/
-21. 
+21. https://leetcode.com/problems/make-the-string-great/
+22. https://leetcode.com/problems/three-consecutive-odds/
+23. https://leetcode.com/problems/thousand-separator/
+24.  
