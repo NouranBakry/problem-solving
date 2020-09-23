@@ -11,4 +11,11 @@ My solutions to problems on leetoode 🚀
 7. https://leetcode.com/problems/combination-sum/
 8. https://leetcode.com/problems/multiply-strings/
 9. https://leetcode.com/problems/permutations/
-10.
+10. https://leetcode.com/problems/running-sum-of-1d-array/
+11. https://leetcode.com/problems/xor-operation-in-an-array/
+12. https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/
+13. https://leetcode.com/problems/path-crossing/
+14. https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/
+15. https://leetcode.com/problems/reformat-date/
+16. https://leetcode.com/problems/number-of-good-pairs/
+17. 
