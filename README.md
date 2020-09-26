@@ -25,4 +25,5 @@ My solutions to problems on leetoode 🚀
 21. https://leetcode.com/problems/make-the-string-great/
 22. https://leetcode.com/problems/three-consecutive-odds/
 23. https://leetcode.com/problems/thousand-separator/
-24.  
+24. https://leetcode.com/problems/permutations-ii/
+25.
