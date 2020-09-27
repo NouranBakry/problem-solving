@@ -26,4 +26,6 @@ My solutions to problems on leetoode 🚀
 22. https://leetcode.com/problems/three-consecutive-odds/
 23. https://leetcode.com/problems/thousand-separator/
 24. https://leetcode.com/problems/permutations-ii/
-25.
+25. https://leetcode.com/problems/most-common-word/
+26. https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/
+27. 
