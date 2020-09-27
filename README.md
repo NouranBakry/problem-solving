@@ -28,4 +28,4 @@ My solutions to problems on leetoode 🚀
 24. https://leetcode.com/problems/permutations-ii/
 25. https://leetcode.com/problems/most-common-word/
 26. https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/
-27. 
+27. https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/
