@@ -1,6 +1,6 @@
 # problem-solving
 
-My solutions to problems on leetoode 🚀
+My solutions to problems on leetoode in Java 🚀
 
 1. https://leetcode.com/problems/string-to-integer-atoi/
 2. https://leetcode.com/problems/divide-two-integers/
