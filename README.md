@@ -31,4 +31,6 @@ My solutions to problems on leetoode 🚀
 27. https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/
 28. https://leetcode.com/problems/binary-tree-inorder-traversal/
 29. https://leetcode.com/problems/unique-binary-search-trees-ii/
-
+30. https://leetcode.com/problems/subsets/
+31. https://leetcode.com/problems/word-search/
+32. 
