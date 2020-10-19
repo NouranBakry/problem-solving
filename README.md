@@ -34,4 +34,5 @@ My solutions to problems on leetoode in Java 🚀
 30. https://leetcode.com/problems/subsets/
 31. https://leetcode.com/problems/word-search/
 32. https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/
-33. 
+33. https://leetcode.com/problems/range-sum-of-bst/
+34. https://leetcode.com/problems/flip-equivalent-binary-trees/
