@@ -36,4 +36,5 @@ My solutions to problems on leetoode in Java 🚀
 32. https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/
 33. https://leetcode.com/problems/range-sum-of-bst/
 34. https://leetcode.com/problems/flip-equivalent-binary-trees/
-35. https://leetcode.com/problems/check-completeness-of-a-binary-tree/submissions/
+35. https://leetcode.com/problems/check-completeness-of-a-binary-tree/
+36. https://leetcode.com/problems/top-k-frequent-elements/
