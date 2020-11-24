@@ -38,3 +38,5 @@ My solutions to problems on leetoode in Java 🚀
 34. https://leetcode.com/problems/flip-equivalent-binary-trees/
 35. https://leetcode.com/problems/check-completeness-of-a-binary-tree/
 36. https://leetcode.com/problems/top-k-frequent-elements/
+37. https://leetcode.com/problems/kth-smallest-element-in-a-bst/
+38. 
