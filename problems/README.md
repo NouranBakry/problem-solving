@@ -1,6 +1,6 @@
 # List of Problems you will find in here
 
-My solutions to problems from leetoode and Hackerrank in Java 🚀
+My solutions to problems from leetcode and Hackerrank in Java 🚀
 
 1. https://leetcode.com/problems/string-to-integer-atoi/
 2. https://leetcode.com/problems/divide-two-integers/
@@ -41,4 +41,5 @@ My solutions to problems from leetoode and Hackerrank in Java 🚀
 37. https://leetcode.com/problems/kth-smallest-element-in-a-bst/
 38. https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
 39. https://leetcode.com/problems/richest-customer-wealth/
-40. 
+40. https://leetcode.com/problems/shuffle-the-array
+41. 

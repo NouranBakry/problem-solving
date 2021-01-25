@@ -2,7 +2,7 @@
  * Solution: What do we need to do? 1. find the maximum number of candies among
  * the kids 2. Check every kid's possibility to have this maximum candies
  */
-
+// evaluation O(n), n is the number of kids
 class Solution {
     public List<Boolean> kidsWithCandies(int[] candies, int extraCandies) {
         List<Boolean> result = new ArrayList<>();
