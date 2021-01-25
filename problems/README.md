@@ -1,4 +1,4 @@
-# problem-solving
+# List of Problems you will find in here 
 
 My solutions to problems on leetoode in Java 🚀
 
