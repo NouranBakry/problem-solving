@@ -42,4 +42,5 @@ My solutions to problems from leetcode and Hackerrank in Java 🚀
 38. https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
 39. https://leetcode.com/problems/richest-customer-wealth/
 40. https://leetcode.com/problems/shuffle-the-array
-41. 
+41. https://leetcode.com/problems/jewels-and-stones/
+42. 
