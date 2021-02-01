@@ -45,4 +45,5 @@ My solutions to problems from leetcode and Hackerrank in Java 🚀
 41. https://leetcode.com/problems/jewels-and-stones/
 42. https://leetcode.com/problems/group-anagrams/
 43. https://leetcode.com/problems/kth-largest-element-in-an-array/
-44. 
+44. https://leetcode.com/problems/game-of-life/
+45.
