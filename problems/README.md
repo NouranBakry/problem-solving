@@ -52,4 +52,5 @@ My solutions to problems from leetcode and Hackerrank in Java 🚀
 48. https://leetcode.com/problems/invert-binary-tree/
 49. https://leetcode.com/problems/palindromic-substrings/
 50. https://leetcode.com/problems/reverse-string/
-51.
+51. https://leetcode.com/problems/insert-delete-getrandom-o1/
+52. 
