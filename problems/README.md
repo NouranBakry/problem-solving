@@ -61,4 +61,5 @@ My solutions to problems from leetcode and Hackerrank in Java 🚀
 57. https://leetcode.com/problems/odd-even-linked-list/
 58. https://leetcode.com/problems/longest-palindromic-substring/
 59. https://leetcode.com/problems/find-all-duplicates-in-an-array/
-60. 
+60. https://leetcode.com/problems/delete-leaves-with-a-given-value/
+61. 
