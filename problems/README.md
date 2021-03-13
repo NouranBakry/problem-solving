@@ -53,4 +53,12 @@ My solutions to problems from leetcode and Hackerrank in Java 🚀
 49. https://leetcode.com/problems/palindromic-substrings/
 50. https://leetcode.com/problems/reverse-string/
 51. https://leetcode.com/problems/insert-delete-getrandom-o1/
-52. 
+52. https://leetcode.com/problems/delete-node-in-a-linked-list/solution/
+53. https://leetcode.com/problems/missing-number/
+54. https://leetcode.com/problems/move-zeroes/
+55. https://leetcode.com/problems/third-maximum-number/
+56. https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
+57. https://leetcode.com/problems/odd-even-linked-list/
+58. https://leetcode.com/problems/longest-palindromic-substring/
+59. https://leetcode.com/problems/find-all-duplicates-in-an-array/
+60. 
