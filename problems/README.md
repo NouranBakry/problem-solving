@@ -63,4 +63,7 @@ My solutions to problems from leetcode and Hackerrank in Java 🚀
 59. https://leetcode.com/problems/find-all-duplicates-in-an-array/
 60. https://leetcode.com/problems/delete-leaves-with-a-given-value/
 61. https://leetcode.com/problems/binary-tree-level-order-traversal/
-62. 
+62. https://leetcode.com/problems/add-two-numbers/
+63. https://leetcode.com/problems/3sum/
+64. https://leetcode.com/problems/3sum-closest/
+65. 
