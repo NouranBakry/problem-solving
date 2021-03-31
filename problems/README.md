@@ -66,4 +66,8 @@ My solutions to problems from leetcode and Hackerrank in Java 🚀
 62. https://leetcode.com/problems/add-two-numbers/
 63. https://leetcode.com/problems/3sum/
 64. https://leetcode.com/problems/3sum-closest/
-65. 
+65. https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/
+66. https://leetcode.com/problems/count-good-meals/
+67. https://leetcode.com/problems/two-sum/
+68. https://leetcode.com/problems/tuple-with-same-product/submissions/
+69. 
