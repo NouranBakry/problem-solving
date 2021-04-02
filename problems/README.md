@@ -70,4 +70,10 @@ My solutions to problems from leetcode and Hackerrank in Java 🚀
 66. https://leetcode.com/problems/count-good-meals/
 67. https://leetcode.com/problems/two-sum/
 68. https://leetcode.com/problems/tuple-with-same-product/submissions/
-69. 
+69. https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/
+70. https://leetcode.com/problems/max-increase-to-keep-city-skyline/
+71. https://leetcode.com/problems/deepest-leaves-sum/
+72. https://leetcode.com/problems/sort-the-matrix-diagonally/
+73. https://leetcode.com/problems/maximum-binary-tree/
+74. https://leetcode.com/problems/all-paths-from-source-to-target/
+75. 
