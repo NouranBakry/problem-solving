@@ -11,9 +11,9 @@ My solutions to problems from leetcode and Hackerrank in Java 🚀
 7. [Combination sum - Leetcode](https://leetcode.com/problems/combination-sum/)
 8. [Multiply strings - Leetcode](https://leetcode.com/problems/multiply-strings/)
 9. [Permutations - Leetcode](https://leetcode.com/problems/permutations/)
-10. https://leetcode.com/problems/running-sum-of-1d-array/
-11. https://leetcode.com/problems/xor-operation-in-an-array/
-12. https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/
+10. [Sum of 1d array - Leetcode](https://leetcode.com/problems/running-sum-of-1d-array/)
+11. [XOR operation in an array - Leetcode](https://leetcode.com/problems/xor-operation-in-an-array/)
+12. [Average salary excluding the minimum and maximum salary - Leetcode](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/)
 13. https://leetcode.com/problems/path-crossing/
 14. https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/
 15. https://leetcode.com/problems/reformat-date/
@@ -74,9 +74,9 @@ My solutions to problems from leetcode and Hackerrank in Java 🚀
 70. [Max increase to keep city Skyline medium- Leetcode](https://leetcode.com/problems/max-increase-to-keep-city-skyline/) - [Solution](https://github.com/NouranBakry/problem-solving/blob/master/problems/MaxIncreaseToKeepCitySkyline.java)
 71. https://leetcode.com/problems/deepest-leaves-sum/
 72. [Sort the matrix diagonally medium - Leetcode](https://leetcode.com/problems/sort-the-matrix-diagonally/) - [Solution](https://github.com/NouranBakry/problem-solving/blob/master/problems/SortTheMatrixDiagonally.java)
-73. https://leetcode.com/problems/maximum-binary-tree/
-74. https://leetcode.com/problems/all-paths-from-source-to-target/
-75. https://leetcode.com/problems/minimum-operations-to-make-array-equal/
-76. https://leetcode.com/problems/all-elements-in-two-binary-search-trees/
+73. [Maximum Binary tree - Leetcode](https://leetcode.com/problems/maximum-binary-tree/)
+74. [All paths from source to target - Leetcode](https://leetcode.com/problems/all-paths-from-source-to-target/)
+75. [Minimum operations to make array equal - Leetcode](https://leetcode.com/problems/minimum-operations-to-make-array-equal/)
+76. [All elements in two binary search trees - Leetcode](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/)
 77. [Partition labels - Leetcode - Medium](https://leetcode.com/problems/partition-labels/)
 78. [Score after flipping matrix - Leetcode - Medium](https://leetcode.com/problems/score-after-flipping-matrix/)
