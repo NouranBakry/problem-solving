@@ -76,4 +76,7 @@ My solutions to problems from leetcode and Hackerrank in Java 🚀
 72. https://leetcode.com/problems/sort-the-matrix-diagonally/
 73. https://leetcode.com/problems/maximum-binary-tree/
 74. https://leetcode.com/problems/all-paths-from-source-to-target/
-75. 
+75. https://leetcode.com/problems/minimum-operations-to-make-array-equal/
+76. https://leetcode.com/problems/all-elements-in-two-binary-search-trees/
+77. https://leetcode.com/problems/partition-labels/
+78. 
