@@ -2,15 +2,15 @@
 
 My solutions to problems from leetcode and Hackerrank in Java 🚀
 
-1. https://leetcode.com/problems/string-to-integer-atoi/
-2. https://leetcode.com/problems/divide-two-integers/
-3. https://leetcode.com/problems/next-permutation/
-4. https://leetcode.com/problems/search-in-rotated-sorted-array/
-5. https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
-6. https://leetcode.com/problems/valid-sudoku/
-7. https://leetcode.com/problems/combination-sum/
-8. https://leetcode.com/problems/multiply-strings/
-9. https://leetcode.com/problems/permutations/
+1. [String to integer - Leetcode](https://leetcode.com/problems/string-to-integer-atoi/)
+2. [Divide two integers - Leetcode](https://leetcode.com/problems/divide-two-integers/)
+3. [Next permutation - Leetcode](https://leetcode.com/problems/next-permutation/)
+4. [Search in rotated array - Leetcode](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+5. [Find first and last position in sorted array - Leetcode](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+6. [Valid Sudoku - Leetcode](https://leetcode.com/problems/valid-sudoku/)
+7. [Combination sum - Leetcode](https://leetcode.com/problems/combination-sum/)
+8. [Multiply strings - Leetcode](https://leetcode.com/problems/multiply-strings/)
+9. [Permutations - Leetcode](https://leetcode.com/problems/permutations/)
 10. https://leetcode.com/problems/running-sum-of-1d-array/
 11. https://leetcode.com/problems/xor-operation-in-an-array/
 12. https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/
@@ -73,10 +73,10 @@ My solutions to problems from leetcode and Hackerrank in Java 🚀
 69. https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/
 70. [Max increase to keep city Skyline medium- Leetcode](https://leetcode.com/problems/max-increase-to-keep-city-skyline/) - [Solution](problems\MaxIncreaseToKeepCitySkyline.java)
 71. https://leetcode.com/problems/deepest-leaves-sum/
-72. [Sort the matrix diagonally medium - Leetcode](https://leetcode.com/problems/sort-the-matrix-diagonally/) [Solution](problems\SortTheMatrixDiagonally.java)
+72. [Sort the matrix diagonally medium - Leetcode](https://leetcode.com/problems/sort-the-matrix-diagonally/) - [Solution](problems\SortTheMatrixDiagonally.java)
 73. https://leetcode.com/problems/maximum-binary-tree/
 74. https://leetcode.com/problems/all-paths-from-source-to-target/
 75. https://leetcode.com/problems/minimum-operations-to-make-array-equal/
 76. https://leetcode.com/problems/all-elements-in-two-binary-search-trees/
-77. https://leetcode.com/problems/partition-labels/
-78. https://leetcode.com/problems/score-after-flipping-matrix/
+77. [Partition labels - Leetcode - Medium](https://leetcode.com/problems/partition-labels/)
+78. [Score after flipping matrix - Leetcode - Medium](https://leetcode.com/problems/score-after-flipping-matrix/)
