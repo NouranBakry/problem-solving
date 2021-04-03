@@ -14,14 +14,14 @@ My solutions to problems from leetcode and Hackerrank in Java 🚀
 10. [Sum of 1d array - Leetcode](https://leetcode.com/problems/running-sum-of-1d-array/)
 11. [XOR operation in an array - Leetcode](https://leetcode.com/problems/xor-operation-in-an-array/)
 12. [Average salary excluding the minimum and maximum salary - Leetcode](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/)
-13. https://leetcode.com/problems/path-crossing/
-14. https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/
-15. https://leetcode.com/problems/reformat-date/
-16. https://leetcode.com/problems/number-of-good-pairs/
-17. https://leetcode.com/problems/water-bottles/
-18. https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/
-19. https://leetcode.com/problems/shuffle-string/
-20. https://leetcode.com/problems/kth-missing-positive-number/
+13. [Path crossing - Leetcode](https://leetcode.com/problems/path-crossing/)
+14. [Can make arithmetic progression from sequence - Leetcode](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/)
+15. [Reformat date - Leetcode](https://leetcode.com/problems/reformat-date/)
+16. [Number of good pairs - Leetcode](https://leetcode.com/problems/number-of-good-pairs/)
+17. [Water bottles - Leetcode](https://leetcode.com/problems/water-bottles/)
+18. [Count odd numbers in an interval range - Leetcode](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/)
+19. [Shuffle string - Leetcode](https://leetcode.com/problems/shuffle-string/)
+20. [Kth missing positive number](https://leetcode.com/problems/kth-missing-positive-number/)
 21. https://leetcode.com/problems/make-the-string-great/
 22. https://leetcode.com/problems/three-consecutive-odds/
 23. https://leetcode.com/problems/thousand-separator/
@@ -66,11 +66,11 @@ My solutions to problems from leetcode and Hackerrank in Java 🚀
 62. https://leetcode.com/problems/add-two-numbers/
 63. https://leetcode.com/problems/3sum/
 64. https://leetcode.com/problems/3sum-closest/
-65. https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/
-66. https://leetcode.com/problems/count-good-meals/
-67. https://leetcode.com/problems/two-sum/
-68. https://leetcode.com/problems/tuple-with-same-product/submissions/
-69. https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/
+65. [Partioning into min number of deci binary number - Leetcode](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/)
+66. [Count good meals - Leetcode](https://leetcode.com/problems/count-good-meals/)
+67. [Two sum - Leetcode](https://leetcode.com/problems/two-sum/)
+68. [Tuple with same product - Leetcode](https://leetcode.com/problems/tuple-with-same-product/)
+69. [Find a corresponding node of a binary tree in a clone of that tree - Leetcode](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/)
 70. [Max increase to keep city Skyline medium- Leetcode](https://leetcode.com/problems/max-increase-to-keep-city-skyline/) - [Solution](https://github.com/NouranBakry/problem-solving/blob/master/problems/MaxIncreaseToKeepCitySkyline.java)
 71. https://leetcode.com/problems/deepest-leaves-sum/
 72. [Sort the matrix diagonally medium - Leetcode](https://leetcode.com/problems/sort-the-matrix-diagonally/) - [Solution](https://github.com/NouranBakry/problem-solving/blob/master/problems/SortTheMatrixDiagonally.java)
