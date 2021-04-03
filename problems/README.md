@@ -73,7 +73,7 @@ My solutions to problems from leetcode and Hackerrank in Java 🚀
 69. https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/
 70. https://leetcode.com/problems/max-increase-to-keep-city-skyline/ [Solution]()
 71. https://leetcode.com/problems/deepest-leaves-sum/
-72. (Leetcode)[https://leetcode.com/problems/sort-the-matrix-diagonally/] (Solution) [problems\SortTheMatrixDiagonally.java]
+72. [Leetcode] (https://leetcode.com/problems/sort-the-matrix-diagonally/) [Solution](problems\SortTheMatrixDiagonally.java)
 73. https://leetcode.com/problems/maximum-binary-tree/
 74. https://leetcode.com/problems/all-paths-from-source-to-target/
 75. https://leetcode.com/problems/minimum-operations-to-make-array-equal/
