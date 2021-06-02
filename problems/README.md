@@ -82,3 +82,4 @@ My solutions to problems from leetcode and Hackerrank in Java 🚀
 78. [Score after flipping matrix - Leetcode](https://leetcode.com/problems/score-after-flipping-matrix/)
 79. [Generate Parenthesis - Leetcode](https://leetcode.com/problems/generate-parentheses/) 
 80. [Valid Parenthesis - Leetcode](https://leetcode.com/problems/valid-parentheses/)
+81. [Shuffle an array - Leetcode](https://leetcode.com/problems/shuffle-an-array/)
