@@ -5,18 +5,17 @@
 // since we need to find all possible solutions and permutations complexity is O(n * 2^n)
 class Solution {
     public List<List<Integer>> subsets(int[] nums) {
-        List<List<Integer>> allSubsets = new ArrayList<>();
-        Arrays.sort(nums);
-        backtrack(allSubsets, new ArrayList<>(), nums, 0);
-        return allSubsets;
+        List<List<Integer>> output= new ArrayList<>();
+        List<Integer> subResult = new ArrayList<>();
+        collectSubsets(output,subResult,nums,0);
+        return output;
     }
-
-    private void backtrack(List<List<Integer>> allSubsets, List<Integer> subset, int[] nums, int start) {
-        allSubsets.add(new ArrayList<>(subset));
-        for (int i = start; i < nums.length; i++) {
-            subset.add(nums[i]);
-            backtrack(allSubsets, subset, nums, i + 1);
-            subset.remove(subset.size() - 1);
+    private void collectSubsets(List<List<Integer>> allSubs,List<Integer> subResult, int[] nums, int start){
+        allSubs.add(new ArrayList<>(subResult));
+        for(int i=start; i <nums.length;i++){
+            subResult.add(nums[i]);
+            collectSubsets(allSubs,subResult,nums,i+1);
+            subResult.remove(subResult.size()-1);
         }
     }
 }

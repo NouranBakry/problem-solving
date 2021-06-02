@@ -80,3 +80,5 @@ My solutions to problems from leetcode and Hackerrank in Java 🚀
 76. [All elements in two binary search trees - Leetcode](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/)
 77. [Partition labels - Leetcode - Medium](https://leetcode.com/problems/partition-labels/)
 78. [Score after flipping matrix - Leetcode - Medium](https://leetcode.com/problems/score-after-flipping-matrix/)
+79. [Generate Parenthesis - Leetcode - Medium](https://leetcode.com/problems/generate-parentheses/) 
+80. [Valid Parenthesis - Leetcode - Easy](https://leetcode.com/problems/valid-parentheses/)
