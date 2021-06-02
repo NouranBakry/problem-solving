@@ -89,7 +89,6 @@ public class Solution {
                 collectPermutations(nums, start + 1, newPermutation, permutations);
                 used.add(newPermutation);
             }
-
         }
     }
 }
