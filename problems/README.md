@@ -83,3 +83,4 @@ My solutions to problems from leetcode and Hackerrank in Java 🚀
 79. [Generate Parenthesis - Leetcode](https://leetcode.com/problems/generate-parentheses/) 
 80. [Valid Parenthesis - Leetcode](https://leetcode.com/problems/valid-parentheses/)
 81. [Shuffle an array - Leetcode](https://leetcode.com/problems/shuffle-an-array/)
+82. [Partition labels - Leetcode](https://leetcode.com/problems/partition-labels/)
