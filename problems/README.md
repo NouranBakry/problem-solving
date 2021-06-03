@@ -84,3 +84,4 @@ My solutions to problems from leetcode and Hackerrank in Java 🚀
 80. [Valid Parenthesis - Leetcode](https://leetcode.com/problems/valid-parentheses/)
 81. [Shuffle an array - Leetcode](https://leetcode.com/problems/shuffle-an-array/)
 82. [Partition labels - Leetcode](https://leetcode.com/problems/partition-labels/)
+83. [Binary Tree Right Side View - Leetcode](https://leetcode.com/problems/binary-tree-right-side-view/)

@@ -1,4 +1,5 @@
 // O(n), space O(26)-> O(1)
+// greedy algorithm 
 class Solution {
     public List<Integer> partitionLabels(String s) {
         List<Integer> output = new ArrayList<>();
