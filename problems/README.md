@@ -87,3 +87,4 @@ My solutions to problems from leetcode and Hackerrank in Java 🚀
 83. [Binary Tree Right Side View - Leetcode](https://leetcode.com/problems/binary-tree-right-side-view/)
 84. [Binary Search Tree from array - Leetcode](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
 85. [Palindromic Partitioning - Leetcode](https://leetcode.com/problems/palindrome-partitioning/)
+86. [Remove nth node from the end of a list - Leetcode](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
